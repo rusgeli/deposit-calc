@@ -1,5 +1,5 @@
 language: c
-compiler: make
+install: make
 script: bin/deposit_calc_test
 after_success: make clean
 after_failure: make clean
