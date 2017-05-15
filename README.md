@@ -1,1 +1,1 @@
-Вариант 2
+https://travis-ci.org/rusgeli/deposit-calc.svg?branch=master
